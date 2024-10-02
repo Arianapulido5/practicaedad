@@ -1,0 +1,7 @@
+{
+  "name": "practicaedad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
